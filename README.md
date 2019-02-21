@@ -1,4 +1,4 @@
-# Supporing code for paper [EOTGMs] (https://arxiv.org/abs/1811.06763)
+# Supporing code for paper [EOTGMs](https://arxiv.org/abs/1811.06763)
 
 In preparation...
 =========
